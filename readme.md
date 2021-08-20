@@ -19,3 +19,4 @@ Attacks: [gotoAndDie](https://github.com/gotoAndDie), [estebanfer](https://www.r
 Engine/Bad Time Simulator: [Jcw87](https://www.github.com/jcw87)
 
 **RIP Construct 2, F**
+*Bad Time Reimagined in development, haha free license go brrrrr*
